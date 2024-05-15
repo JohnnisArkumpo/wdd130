@@ -1,0 +1,46 @@
+body {
+    background-color: #2f76fa;
+    text-align: center;
+    /* margin: 0 auto; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    color: #ffffff;
+    width: 30%;
+    margin: 0 auto;
+}
+#top {
+    color: #ffffff;
+    text-decoration: none;
+}
+#top:hover {
+    color: #000000;
+}
+.signd {
+    font-weight: bold;
+}
+ol {
+    color: #000000;
+    text-align: left;
+    text-indent: 35%;
+    list-style-position: inside;
+    font-weight: bold;
+    font-size: larger;
+}
+li {
+    margin: 0.5% auto;
+}
+#pichr {
+    width: 15%;
+}
+#mainquote {
+    color: #ffffff;
+    width: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+}
+footer {
+    width: 16%;
+    margin: 0 auto;
+    font-size: small;
+}
