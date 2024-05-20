@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: #444444;
+}
+div img {
+    text-align: center;
+    padding: 4%;
+    width: 25%;
+    /* -webkit-mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.5) 50%); */
+    mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.116) 50%)
+    
+}
+p {
+    /* just to remember this lit masking */
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+}
