@@ -1,5 +1,6 @@
 body {
     background-color: #E3E0DB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #content {
     max-width: 1600px;
@@ -48,7 +49,7 @@ main section {
     text-align: center;
 }
 .logocard {
-    width: 80px;
+    width: 80px; 
 }
 #background {
     height: 725px;
@@ -62,6 +63,9 @@ main section {
 }
 .msg p {
     color: #000000;
+}
+.bottomimage {
+    
 }
 footer {
     background-color: #EA9A5C;
