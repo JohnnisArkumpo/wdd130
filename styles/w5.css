@@ -7,7 +7,7 @@ div img {
     padding: 4%;
     width: 25%;
     /* -webkit-mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.5) 50%); */
-    mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.116) 50%)
+    mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.001) 50%)
     
 }
 p {
