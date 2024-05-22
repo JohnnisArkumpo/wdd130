@@ -4,11 +4,13 @@ body {
 }
 div img {
     text-align: center;
-    padding: 4%;
+    /* padding: 4%; */
+    margin: 3%;
     width: 25%;
     /* -webkit-mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.5) 50%); */
-    mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.001) 50%)
-    
+    /* mask-image: radial-gradient(circle, black 50%, rgba(0, 0, 0, 0.001) 50%) */
+    border-radius: 50%;
+    border: 10px solid #000000;
 }
 p {
     /* just to remember this lit masking */
