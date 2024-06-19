@@ -82,15 +82,14 @@ nav a:hover {
 /* Main */
 .righttext {
     display: grid;
-    grid-template-columns: 1fr, 1fr, 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 35px;
     margin: 100px auto;
     padding: 15px;
 }
-
 .lefttext {
     display: grid;
-    grid-template-columns: 1fr, 1fr, 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 35px;
     margin: 100px auto;
     padding: 15px;
