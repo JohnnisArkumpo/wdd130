@@ -89,6 +89,7 @@ nav a:hover {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 0.8em;
 }
+/* why tho */
 .lefttext {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
