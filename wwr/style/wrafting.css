@@ -79,6 +79,14 @@ nav a:hover {
     text-align: center;
     color: white;
 }
+/* Holy crap this is taking forever */
+main {
+    background-color: black;
+}
+/* text */
+
+
+/* More text */
 /* Main */
 .righttext {
     display: grid;
@@ -86,6 +94,7 @@ nav a:hover {
     column-gap: 35px;
     margin: 100px auto;
     padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .lefttext {
     display: grid;
@@ -93,6 +102,7 @@ nav a:hover {
     column-gap: 35px;
     margin: 100px auto;
     padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .rimg, .limg {
     width: 100%;
