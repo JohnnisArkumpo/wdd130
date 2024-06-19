@@ -34,7 +34,7 @@ body {
 }
 .left, .right, .middle {
     background-color: #0012FF;
-    border-color: white;
+    margin: 0 0.5px;
 }
 .left {
     border-bottom-left-radius: 5%;
