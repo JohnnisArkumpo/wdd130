@@ -86,14 +86,10 @@ nav a:hover {
     column-gap: 35px;
     margin: 100px auto;
     padding: 15px;
-    /* box-shadow: 5px 5px 10px #6f7364; */
 }
 .rimg, .limg {
     width: 100%;
     border-radius: 2%;
-}
-.righttext {
-    /* background-color: #EA9A5C; */
 }
 .rtitle {
     grid-column: 1/2;
@@ -107,9 +103,6 @@ nav a:hover {
 .rimg {
     grid-column: 3/4;
     grid-row: 1/4;
-}
-.lefttext {
-    /* background-color: #F5B249; */
 }
 .ltitle {
     grid-column: 3/4;
