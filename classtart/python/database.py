@@ -642,10 +642,14 @@ def ages_codebit():
 
 # Current projects
 def currentclass():
-    # nothin babyy
-    print()
+    # Messing around with LAMBDA functions
+    compute_cubic_area = lambda x, y, z: x*y*z
+    def three_dimensional_volume(x, y, z, funtion):
+        return funtion(x, y, z)
+
+    print(three_dimensional_volume(5, 5, 5, compute_cubic_area))
 
 # Machine
 if True:
-    areacalc_code()
+    currentclass()
 # FIM
